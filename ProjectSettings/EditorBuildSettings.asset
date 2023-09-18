@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/model_house_lgh.unity
+    guid: 16e36f513c6a9294083bfca8138a0275
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a7354ec96dfca864980437b358946dcf, type: 2}
